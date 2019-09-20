@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "蓝牙打印Demo",
+  "usingComponents": {
+    "uni-collapse": "/plugs/uni-ui/uni-collapse/uni-collapse",
+    "uni-collapse-item": "/plugs/uni-ui/uni-collapse-item/uni-collapse-item"
+  }
+}

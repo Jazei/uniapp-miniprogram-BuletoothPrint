@@ -1,0 +1,9 @@
+
+.topTitle{font-size: 15px;padding: 5px;color: #999;text-align: center;}
+.deviceListWrap{height: calc(100vh - 160rpx);
+}
+.connectedStatus{position: fixed;bottom: 30rpx;left: 15%;width: 70%;text-align: center;border-top: 1px solid #eee;}
+.concatBtn{text-align: center;margin: 30rpx 0;}
+.nowConcat {margin: 5px 0;color: #333;}
+.npConcat{margin: 5px 0;color: #999;}
+
